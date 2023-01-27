@@ -77,3 +77,6 @@ void loop() {
 ```
 
 Please note that, RX and TX pin number may vary based on the model of the arduino board. It's important to check the pinout of the board you are using and adjust the code accordingly.
+
+### Support
+see the [Forum](https://forum.arduino.cc/c/software/arduino-ide-2-0/93) arduino for more issue 

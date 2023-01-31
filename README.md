@@ -1,4 +1,4 @@
-# Multi-Device-SerialCommunication
+# Multiple-SerialCommunication
 serial communication between two Arduino boards
 
 # Background

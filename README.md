@@ -80,3 +80,6 @@ Please note that, RX and TX pin number may vary based on the model of the arduin
 
 ### Support
 see the [Forum](https://forum.arduino.cc/c/software/arduino-ide-2-0/93) arduino for more issue 
+
+### Another project 
+Lets see another project such as How to [Connecting ESP32CAM to Smartphone](https://github.com/electricianinsomniac/ESP32CAM-to-Smartphone) by using WIFI connection 

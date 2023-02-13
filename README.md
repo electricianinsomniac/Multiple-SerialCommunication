@@ -82,4 +82,4 @@ Please note that, RX and TX pin number may vary based on the model of the arduin
 see the [Forum](https://forum.arduino.cc/c/software/arduino-ide-2-0/93) arduino for more issue 
 
 ### Another project 
-Lets see another project such as How to [Serial communication between STM32 board and Arduino or ESP32 Board](https://github.com/electricianinsomniac/STM32duino-Serial-Communication) by using WIFI connection 
+Lets see another project such as How to [Serial communication between STM32 board and Arduino or ESP32 Board](https://github.com/electricianinsomniac/STM32duino-Serial-Communication)
